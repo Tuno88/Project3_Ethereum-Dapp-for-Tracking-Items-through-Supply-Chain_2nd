@@ -1,11 +1,3 @@
-### Contract address
-
-0xEdaEfBD9Bcd7A39670c0ADbD7b08fb646D775F54
-
-### Transaction hash:
-
-0x80c16d83aeecc87c7484be615da1aab32cced2770bd4a4b2dc8b2b362f081c33
-
 ### Libraries
 
     # Truffle
